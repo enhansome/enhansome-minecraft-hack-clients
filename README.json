@@ -1,14 +1,46 @@
 {
   "items": [
     {
-      "description": "New Discord: https://discord.gg/BH76jvEsVS",
-      "items": [],
-      "title": "News"
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TrollHack",
+          "description": "has majority of its releases not stable with the Forge 1.12.2, all releases after release 0.0.5.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 423016548,
+            "language": "Kotlin",
+            "last_commit": "2026-07-17T13:26:39Z",
+            "owner": "Luna5ama",
+            "repo": "TrollHack",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gamesenseplusplus",
+          "description": "is largely safe though it has some stories surrounding it, latest stable and safe release is here.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 365593760,
+            "language": "Java",
+            "last_commit": "2021-12-26T23:09:06Z",
+            "owner": "TechAle",
+            "repo": "gsplusplus",
+            "stars": 56
+          }
+        }
+      ],
+      "title": "Notes"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T05:07:12.459Z",
+    "last_updated": "2026-08-19T12:41:27.382Z",
     "original_repository": "Minecraft-Anarchy/minecraft-hack-clients",
+    "original_repository_id": 436666197,
     "original_repository_sha": "31cf6277082387f5ee18ff23c5e398134939855c",
     "enhanced_repository": "enhansome/enhansome-minecraft-hack-clients",
     "enhanced_repository_description": null,
