@@ -5,6 +5,1062 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 385169901,
+            "language": "Java",
+            "last_commit": "2022-12-15T15:20:27Z",
+            "owner": "Mister-Ritom",
+            "repo": "Ananta-Client",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Download",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 385169901,
+            "language": "Java",
+            "last_commit": "2022-12-15T15:20:27Z",
+            "owner": "Mister-Ritom",
+            "repo": "Ananta-Client",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AquaticClient",
+          "description": "1.8.8 Github Compile Yourself ``",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 142565279,
+            "language": "Java",
+            "last_commit": "2018-07-27T10:49:30Z",
+            "owner": "WomasL",
+            "repo": "AquaticClient",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ares",
+          "description": "Multiple Versions WebsiteGithubDiscord Download",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 316060032,
+            "language": "Java",
+            "last_commit": "2025-06-04T17:16:57Z",
+            "owner": "AresClient",
+            "repo": "ares",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BaseClient",
+          "description": "1.8.8 GithubDiscord Compile Yourself ``",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 237685882,
+            "language": "Java",
+            "last_commit": "2025-01-23T23:39:01Z",
+            "owner": "OxideWaveLength",
+            "repo": "Minecraft-Hack-BaseClient",
+            "stars": 318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "Discord",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 312784908,
+            "language": "Java",
+            "last_commit": "2023-04-12T20:00:58Z",
+            "owner": "ZimnyCat",
+            "repo": "BigRat",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Download",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 312784908,
+            "language": "Java",
+            "last_commit": "2023-04-12T20:00:58Z",
+            "owner": "ZimnyCat",
+            "repo": "BigRat",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BleachHack",
+          "description": "1.17.1-1.18.1 GithubWebsiteDiscord Download ``",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 194374827,
+            "language": "Java",
+            "last_commit": "2024-07-02T14:43:12Z",
+            "owner": "BleachDev",
+            "repo": "BleachHack",
+            "stars": 795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cake-client",
+          "description": "1.8 Github Compile Yourself",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 336283775,
+            "language": "Java",
+            "last_commit": "2023-09-29T08:18:04Z",
+            "owner": "GandelXIV",
+            "repo": "Cake-client",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Coffee",
+          "description": "1.19.3 WebsiteGithubDiscord Download",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 489120101,
+            "language": "Java",
+            "last_commit": "2024-02-20T16:03:25Z",
+            "owner": "Coffee-Client",
+            "repo": "Coffee",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "Discord",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 363211939,
+            "language": "Java",
+            "last_commit": "2023-04-15T04:31:46Z",
+            "owner": "bebeli555",
+            "repo": "CookieClient",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Download",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 363211939,
+            "language": "Java",
+            "last_commit": "2023-04-15T04:31:46Z",
+            "owner": "bebeli555",
+            "repo": "CookieClient",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "Discord",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 391157625,
+            "language": "Java",
+            "last_commit": "2023-06-21T20:20:31Z",
+            "owner": "momentumdevelopment",
+            "repo": "cosmos",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Download",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 391157625,
+            "language": "Java",
+            "last_commit": "2023-06-21T20:20:31Z",
+            "owner": "momentumdevelopment",
+            "repo": "cosmos",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 142776302,
+            "language": "Java",
+            "last_commit": "2026-08-13T20:17:48Z",
+            "owner": "pixelcmtd",
+            "repo": "CXClient",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Download",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 142776302,
+            "language": "Java",
+            "last_commit": "2026-08-13T20:17:48Z",
+            "owner": "pixelcmtd",
+            "repo": "CXClient",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Delta",
+          "description": "1.12.2 GithubDiscord Compile Yourself ``",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 454041028,
+            "language": "Java",
+            "last_commit": "2022-05-07T09:19:42Z",
+            "owner": "noatmc-archived",
+            "repo": "delta",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "Twitter",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 292550373,
+            "language": null,
+            "last_commit": "2021-01-18T11:14:56Z",
+            "owner": "HerXayah",
+            "repo": "Azariel-Client",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Download",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 292550373,
+            "language": null,
+            "last_commit": "2021-01-18T11:14:56Z",
+            "owner": "HerXayah",
+            "repo": "Azariel-Client",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 304463625,
+            "language": "Java",
+            "last_commit": "2022-11-02T17:45:34Z",
+            "owner": "anOtherAnalyse",
+            "repo": "FamilyFunPack",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Download",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 304463625,
+            "language": "Java",
+            "last_commit": "2022-11-02T17:45:34Z",
+            "owner": "anOtherAnalyse",
+            "repo": "FamilyFunPack",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 325494762,
+            "language": "Java",
+            "last_commit": "2022-08-15T19:26:22Z",
+            "owner": "olliem5",
+            "repo": "ferox",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Download",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 325494762,
+            "language": "Java",
+            "last_commit": "2022-08-15T19:26:22Z",
+            "owner": "olliem5",
+            "repo": "ferox",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FrogHack",
+          "description": "1.12.2 Github Compile Yourself ``",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 458574232,
+            "language": "Java",
+            "last_commit": "2023-02-24T22:23:37Z",
+            "owner": "Kieran-Whelan",
+            "repo": "Hecks.exe",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "Discord",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 346167532,
+            "language": "Java",
+            "last_commit": "2023-11-03T02:20:22Z",
+            "owner": "evaan",
+            "repo": "FrostBurn",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Download",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 346167532,
+            "language": "Java",
+            "last_commit": "2023-11-03T02:20:22Z",
+            "owner": "evaan",
+            "repo": "FrostBurn",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "Chat",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 91538139,
+            "language": "Java",
+            "last_commit": "2022-12-09T01:31:32Z",
+            "owner": "fr1kin",
+            "repo": "ForgeHax",
+            "stars": 498
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Download",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 91538139,
+            "language": "Java",
+            "last_commit": "2022-12-09T01:31:32Z",
+            "owner": "fr1kin",
+            "repo": "ForgeHax",
+            "stars": 498
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gamesense-plus-2",
+          "description": "1.12.2 Github Compile Yourself ``",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 423456289,
+            "language": "Java",
+            "last_commit": "2021-11-18T13:34:28Z",
+            "owner": "Droid-D3V",
+            "repo": "gamesense-plus-2",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Haze",
+          "description": "1.18.2 GithubDiscord Compile Yourself ``",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 465853448,
+            "language": "Java",
+            "last_commit": "2026-07-06T07:38:02Z",
+            "owner": "Cypphi",
+            "repo": "kana-client",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "Discord",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 335309423,
+            "language": "Java",
+            "last_commit": "2024-01-07T00:46:17Z",
+            "owner": "zPeanut",
+            "repo": "Hydrogen",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Download",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 335309423,
+            "language": "Java",
+            "last_commit": "2024-01-07T00:46:17Z",
+            "owner": "zPeanut",
+            "repo": "Hydrogen",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hypnotic",
+          "description": "1.19 GithubDiscord Download ``",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 391480647,
+            "language": "Java",
+            "last_commit": "2023-12-15T01:00:09Z",
+            "owner": "Hypnotic-Development",
+            "repo": "Hypnotic-Client",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "Discord",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 342726466,
+            "language": "Java",
+            "last_commit": "2023-10-12T15:32:23Z",
+            "owner": "DustinRepo",
+            "repo": "JexClient",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Download",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 342726466,
+            "language": "Java",
+            "last_commit": "2023-10-12T15:32:23Z",
+            "owner": "DustinRepo",
+            "repo": "JexClient",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "Discord",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 141838021,
+            "language": "Kotlin",
+            "last_commit": "2021-12-06T22:26:04Z",
+            "owner": "zeroeightysix",
+            "repo": "KAMI",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Download",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 141838021,
+            "language": "Kotlin",
+            "last_commit": "2021-12-06T22:26:04Z",
+            "owner": "zeroeightysix",
+            "repo": "KAMI",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KAMI Blue",
+          "description": "1.12.2 WebsiteGithub Download ``",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 153950504,
+            "language": "Kotlin",
+            "last_commit": "2021-04-23T22:06:01Z",
+            "owner": "kami-blue",
+            "repo": "client",
+            "stars": 380
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Konas",
+          "description": "1.12.2 Github Pay ``",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 503481308,
+            "language": null,
+            "last_commit": "2021-11-05T05:49:43Z",
+            "owner": "BebSxy",
+            "repo": "konas",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "Discord",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 766421525,
+            "language": "Kotlin",
+            "last_commit": "2026-08-23T15:55:31Z",
+            "owner": "lambda-client",
+            "repo": "lambda",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Download",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 766421525,
+            "language": "Kotlin",
+            "last_commit": "2026-08-23T15:55:31Z",
+            "owner": "lambda-client",
+            "repo": "lambda",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LiquidBounce",
+          "description": "Multiple Versions WebsiteGithub Download ``",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 231111750,
+            "language": "Kotlin",
+            "last_commit": "2026-08-24T11:13:30Z",
+            "owner": "CCBlueX",
+            "repo": "LiquidBounce",
+            "stars": 2351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LiquidBounce++",
+          "description": "1.8.9 WebsiteGithubDiscord Download ``",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 518447055,
+            "language": "Java",
+            "last_commit": "2025-12-04T17:26:37Z",
+            "owner": "MongusOrg",
+            "repo": "SolidPressure",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Meteor Client",
+          "description": "1.19.3 GithubWebsiteDiscordAddons Download",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 309730396,
+            "language": "Java",
+            "last_commit": "2026-08-24T14:25:59Z",
+            "owner": "MeteorDevelopment",
+            "repo": "meteor-client",
+            "stars": 3779
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Onigiri",
+          "description": "1.12.2 Github Compile Yourself ``",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 445702349,
+            "language": "Java",
+            "last_commit": "2022-10-15T14:16:21Z",
+            "owner": "Nodoka4318",
+            "repo": "OnigiriClient",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "Discord",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 425376681,
+            "language": "Java",
+            "last_commit": "2024-05-11T03:31:44Z",
+            "owner": "AntiCope",
+            "repo": "orion",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Download",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 425376681,
+            "language": "Java",
+            "last_commit": "2024-05-11T03:31:44Z",
+            "owner": "AntiCope",
+            "repo": "orion",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Website",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 112841481,
+            "language": "Java",
+            "last_commit": "2021-10-28T20:15:50Z",
+            "owner": "Team-Pepsi",
+            "repo": "pepsimod",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Download",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 112841481,
+            "language": "Java",
+            "last_commit": "2021-10-28T20:15:50Z",
+            "owner": "Team-Pepsi",
+            "repo": "pepsimod",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Website",
+          "description": "GithubDiscord",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 313736035,
+            "language": "Java",
+            "last_commit": "2026-06-10T05:03:35Z",
+            "owner": "srgantmoomoo",
+            "repo": "postman",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Download",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 313736035,
+            "language": "Java",
+            "last_commit": "2026-06-10T05:03:35Z",
+            "owner": "srgantmoomoo",
+            "repo": "postman",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 542242430,
+            "language": "Java",
+            "last_commit": "2022-12-17T04:25:45Z",
+            "owner": "Zane2b2t",
+            "repo": "GrassWare.win",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Download",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 542242430,
+            "language": "Java",
+            "last_commit": "2022-12-17T04:25:45Z",
+            "owner": "Zane2b2t",
+            "repo": "GrassWare.win",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Resilience",
+          "description": "1.6.1 Github Compile Yourself ``",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39420083,
+            "language": "Java",
+            "last_commit": "2020-10-02T12:01:19Z",
+            "owner": "MinecraftModdedClients",
+            "repo": "Resilience-Client-Source",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 261170994,
+            "language": "Java",
+            "last_commit": "2021-05-15T17:32:43Z",
+            "owner": "ionar2",
+            "repo": "spidermod",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Download",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 261170994,
+            "language": "Java",
+            "last_commit": "2021-05-15T17:32:43Z",
+            "owner": "ionar2",
+            "repo": "spidermod",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seppuku",
+          "description": "1.12.2 Website Download ``",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 217877390,
+            "language": "Java",
+            "last_commit": "2023-09-26T01:00:33Z",
+            "owner": "seppukudevelopment",
+            "repo": "seppuku",
+            "stars": 277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 406026219,
+            "language": "Java",
+            "last_commit": "2021-11-25T00:04:39Z",
+            "owner": "HausemasterIssue",
+            "repo": "spidersense",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Download",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 406026219,
+            "language": "Java",
+            "last_commit": "2021-11-25T00:04:39Z",
+            "owner": "HausemasterIssue",
+            "repo": "spidersense",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 473706218,
+            "language": "Java",
+            "last_commit": "2023-05-10T01:54:46Z",
+            "owner": "Toshimichi0915",
+            "repo": "sushi-client",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Download",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 473706218,
+            "language": "Java",
+            "last_commit": "2023-05-10T01:54:46Z",
+            "owner": "Toshimichi0915",
+            "repo": "sushi-client",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 357144278,
+            "language": "Java",
+            "last_commit": "2023-11-28T06:31:07Z",
+            "owner": "IUDevman",
+            "repo": "Tensor",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Download",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 357144278,
+            "language": "Java",
+            "last_commit": "2023-11-28T06:31:07Z",
+            "owner": "IUDevman",
+            "repo": "Tensor",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 423016548,
+            "language": "Kotlin",
+            "last_commit": "2026-07-17T13:26:39Z",
+            "owner": "Luna5ama",
+            "repo": "TrollHack",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Download",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 423016548,
+            "language": "Kotlin",
+            "last_commit": "2026-07-17T13:26:39Z",
+            "owner": "Luna5ama",
+            "repo": "TrollHack",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wurst",
+          "description": "Multiple Versions WebsiteGithub Download ``",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 206354730,
+            "language": "Java",
+            "last_commit": "2026-08-24T14:21:47Z",
+            "owner": "Wurst-Imperium",
+            "repo": "Wurst7",
+            "stars": 1359
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "Discord",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 356071729,
+            "language": "Java",
+            "last_commit": "2022-10-21T23:51:39Z",
+            "owner": "WurstPlus",
+            "repo": "wurst-plus-three",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Download",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 356071729,
+            "language": "Java",
+            "last_commit": "2022-10-21T23:51:39Z",
+            "owner": "WurstPlus",
+            "repo": "wurst-plus-three",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 365593760,
+            "language": "Java",
+            "last_commit": "2021-12-26T23:09:06Z",
+            "owner": "TechAle",
+            "repo": "gsplusplus",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Download",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 356071729,
+            "language": "Java",
+            "last_commit": "2022-10-21T23:51:39Z",
+            "owner": "WurstPlus",
+            "repo": "wurst-plus-three",
+            "stars": 194
+          }
+        }
+      ],
+      "title": "Java Clients"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "TrollHack",
           "description": "has majority of its releases not stable with the Forge 1.12.2, all releases after release 0.0.5.",
           "children": [],
@@ -38,7 +1094,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:23:44.635Z",
+    "last_updated": "2026-08-24T14:48:05.024Z",
     "original_repository": "Minecraft-Anarchy/minecraft-hack-clients",
     "original_repository_id": 436666197,
     "original_repository_sha": "31cf6277082387f5ee18ff23c5e398134939855c",
