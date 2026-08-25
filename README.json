@@ -150,7 +150,7 @@
             "last_commit": "2024-02-20T16:03:25Z",
             "owner": "Coffee-Client",
             "repo": "Coffee",
-            "stars": 176
+            "stars": 177
           }
         },
         {
@@ -600,7 +600,7 @@
             "last_commit": "2026-08-23T15:55:31Z",
             "owner": "lambda-client",
             "repo": "lambda",
-            "stars": 182
+            "stars": 183
           }
         },
         {
@@ -615,7 +615,7 @@
             "last_commit": "2026-08-23T15:55:31Z",
             "owner": "lambda-client",
             "repo": "lambda",
-            "stars": 182
+            "stars": 183
           }
         },
         {
@@ -630,7 +630,7 @@
             "last_commit": "2026-08-24T11:13:30Z",
             "owner": "CCBlueX",
             "repo": "LiquidBounce",
-            "stars": 2351
+            "stars": 2353
           }
         },
         {
@@ -987,10 +987,10 @@
             "archived": false,
             "id": 206354730,
             "language": "Java",
-            "last_commit": "2026-08-24T14:21:47Z",
+            "last_commit": "2026-08-25T00:48:51Z",
             "owner": "Wurst-Imperium",
             "repo": "Wurst7",
-            "stars": 1359
+            "stars": 1360
           }
         },
         {
@@ -1094,7 +1094,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:48:05.024Z",
+    "last_updated": "2026-08-25T05:15:38.916Z",
     "original_repository": "Minecraft-Anarchy/minecraft-hack-clients",
     "original_repository_id": 436666197,
     "original_repository_sha": "31cf6277082387f5ee18ff23c5e398134939855c",
