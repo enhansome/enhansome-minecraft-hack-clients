@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "Mister-Ritom/Ananta-Client",
           "description": null,
           "children": [],
           "repo_info": {
@@ -80,7 +80,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "ZimnyCat/BigRat",
           "description": "Discord",
           "children": [],
           "repo_info": {
@@ -155,7 +155,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "bebeli555/CookieClient",
           "description": "Discord",
           "children": [],
           "repo_info": {
@@ -185,7 +185,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "momentumdevelopment/cosmos",
           "description": "Discord",
           "children": [],
           "repo_info": {
@@ -215,7 +215,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "pixelcmtd/CXClient",
           "description": null,
           "children": [],
           "repo_info": {
@@ -260,7 +260,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "HerXayah/Azariel-Client",
           "description": "Twitter",
           "children": [],
           "repo_info": {
@@ -290,7 +290,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "anOtherAnalyse/FamilyFunPack",
           "description": null,
           "children": [],
           "repo_info": {
@@ -320,7 +320,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "olliem5/ferox",
           "description": null,
           "children": [],
           "repo_info": {
@@ -365,7 +365,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "evaan/FrostBurn",
           "description": "Discord",
           "children": [],
           "repo_info": {
@@ -395,7 +395,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "fr1kin/ForgeHax",
           "description": "Chat",
           "children": [],
           "repo_info": {
@@ -455,7 +455,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "zPeanut/Hydrogen",
           "description": "Discord",
           "children": [],
           "repo_info": {
@@ -500,7 +500,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "DustinRepo/JexClient",
           "description": "Discord",
           "children": [],
           "repo_info": {
@@ -530,7 +530,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "zeroeightysix/KAMI",
           "description": "Discord",
           "children": [],
           "repo_info": {
@@ -590,7 +590,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "lambda-client/lambda",
           "description": "Discord",
           "children": [],
           "repo_info": {
@@ -630,7 +630,7 @@
             "last_commit": "2026-08-24T11:13:30Z",
             "owner": "CCBlueX",
             "repo": "LiquidBounce",
-            "stars": 2353
+            "stars": 2354
           }
         },
         {
@@ -660,7 +660,7 @@
             "last_commit": "2026-08-24T14:25:59Z",
             "owner": "MeteorDevelopment",
             "repo": "meteor-client",
-            "stars": 3779
+            "stars": 3780
           }
         },
         {
@@ -680,7 +680,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "AntiCope/orion",
           "description": "Discord",
           "children": [],
           "repo_info": {
@@ -770,7 +770,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "Zane2b2t/GrassWare.win",
           "description": null,
           "children": [],
           "repo_info": {
@@ -815,7 +815,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "ionar2/spidermod",
           "description": null,
           "children": [],
           "repo_info": {
@@ -860,7 +860,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "HausemasterIssue/spidersense",
           "description": null,
           "children": [],
           "repo_info": {
@@ -890,7 +890,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "Toshimichi0915/sushi-client",
           "description": null,
           "children": [],
           "repo_info": {
@@ -920,7 +920,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "IUDevman/Tensor",
           "description": null,
           "children": [],
           "repo_info": {
@@ -950,7 +950,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "Luna5ama/TrollHack",
           "description": null,
           "children": [],
           "repo_info": {
@@ -995,7 +995,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "WurstPlus/wurst-plus-three",
           "description": "Discord",
           "children": [],
           "repo_info": {
@@ -1025,7 +1025,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "TechAle/gsplusplus",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1094,7 +1094,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:15:38.916Z",
+    "last_updated": "2026-08-25T06:30:53.241Z",
     "original_repository": "Minecraft-Anarchy/minecraft-hack-clients",
     "original_repository_id": 436666197,
     "original_repository_sha": "31cf6277082387f5ee18ff23c5e398134939855c",
