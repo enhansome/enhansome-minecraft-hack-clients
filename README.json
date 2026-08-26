@@ -540,7 +540,7 @@
             "last_commit": "2021-12-06T22:26:04Z",
             "owner": "zeroeightysix",
             "repo": "KAMI",
-            "stars": 244
+            "stars": 245
           }
         },
         {
@@ -555,7 +555,7 @@
             "last_commit": "2021-12-06T22:26:04Z",
             "owner": "zeroeightysix",
             "repo": "KAMI",
-            "stars": 244
+            "stars": 245
           }
         },
         {
@@ -570,7 +570,7 @@
             "last_commit": "2021-04-23T22:06:01Z",
             "owner": "kami-blue",
             "repo": "client",
-            "stars": 380
+            "stars": 381
           }
         },
         {
@@ -630,7 +630,7 @@
             "last_commit": "2026-08-24T11:13:30Z",
             "owner": "CCBlueX",
             "repo": "LiquidBounce",
-            "stars": 2354
+            "stars": 2356
           }
         },
         {
@@ -660,7 +660,7 @@
             "last_commit": "2026-08-24T14:25:59Z",
             "owner": "MeteorDevelopment",
             "repo": "meteor-client",
-            "stars": 3780
+            "stars": 3788
           }
         },
         {
@@ -960,7 +960,7 @@
             "last_commit": "2026-07-17T13:26:39Z",
             "owner": "Luna5ama",
             "repo": "TrollHack",
-            "stars": 220
+            "stars": 221
           }
         },
         {
@@ -975,7 +975,7 @@
             "last_commit": "2026-07-17T13:26:39Z",
             "owner": "Luna5ama",
             "repo": "TrollHack",
-            "stars": 220
+            "stars": 221
           }
         },
         {
@@ -987,10 +987,10 @@
             "archived": false,
             "id": 206354730,
             "language": "Java",
-            "last_commit": "2026-08-25T00:48:51Z",
+            "last_commit": "2026-08-25T16:25:33Z",
             "owner": "Wurst-Imperium",
             "repo": "Wurst7",
-            "stars": 1360
+            "stars": 1361
           }
         },
         {
@@ -1071,7 +1071,7 @@
             "last_commit": "2026-07-17T13:26:39Z",
             "owner": "Luna5ama",
             "repo": "TrollHack",
-            "stars": 220
+            "stars": 221
           }
         },
         {
@@ -1094,7 +1094,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:30:53.241Z",
+    "last_updated": "2026-08-26T05:15:08.225Z",
     "original_repository": "Minecraft-Anarchy/minecraft-hack-clients",
     "original_repository_id": 436666197,
     "original_repository_sha": "31cf6277082387f5ee18ff23c5e398134939855c",
