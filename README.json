@@ -627,10 +627,10 @@
             "archived": false,
             "id": 231111750,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T11:13:30Z",
+            "last_commit": "2026-08-27T10:32:33Z",
             "owner": "CCBlueX",
             "repo": "LiquidBounce",
-            "stars": 2356
+            "stars": 2358
           }
         },
         {
@@ -660,7 +660,7 @@
             "last_commit": "2026-08-24T14:25:59Z",
             "owner": "MeteorDevelopment",
             "repo": "meteor-client",
-            "stars": 3788
+            "stars": 3794
           }
         },
         {
@@ -990,7 +990,7 @@
             "last_commit": "2026-08-25T16:25:33Z",
             "owner": "Wurst-Imperium",
             "repo": "Wurst7",
-            "stars": 1361
+            "stars": 1363
           }
         },
         {
@@ -1094,9 +1094,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:15:08.225Z",
-    "original_repository": "Minecraft-Anarchy/minecraft-hack-clients",
-    "original_repository_id": 436666197,
+    "last_updated": "2026-08-27T11:57:01.936Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 436666197,
+      "language": null,
+      "last_commit": "2023-01-29T20:24:39Z",
+      "owner": "Minecraft-Anarchy",
+      "repo": "minecraft-hack-clients",
+      "stars": 123
+    },
     "original_repository_sha": "31cf6277082387f5ee18ff23c5e398134939855c",
     "enhanced_repository": "enhansome/enhansome-minecraft-hack-clients",
     "enhanced_repository_description": null,
