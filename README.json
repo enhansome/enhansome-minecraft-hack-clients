@@ -1037,10 +1037,10 @@
             "language": "Kotlin",
             "license": "GPL-3.0",
             "last_commit": "2026-08-27T16:45:11Z",
-            "open_issues": 196,
+            "open_issues": 197,
             "owner": "CCBlueX",
             "repo": "LiquidBounce",
-            "stars": 2364,
+            "stars": 2366,
             "topics": [
               "fabric",
               "fabricmc",
@@ -1095,10 +1095,10 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-08-28T11:34:58Z",
-            "open_issues": 805,
+            "open_issues": 806,
             "owner": "MeteorDevelopment",
             "repo": "meteor-client",
-            "stars": 3799,
+            "stars": 3801,
             "topics": [
               "fabricmc",
               "minecraft",
@@ -1656,8 +1656,8 @@
             "id": 206354730,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-27T14:20:30Z",
-            "open_issues": 21,
+            "last_commit": "2026-08-29T04:59:52Z",
+            "open_issues": 22,
             "owner": "Wurst-Imperium",
             "repo": "Wurst7",
             "stars": 1365,
@@ -1836,7 +1836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:55:32.788Z",
+    "last_updated": "2026-08-29T11:20:23.844Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Minecraft Hack Clients.",
