@@ -10,12 +10,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Minecraft utility mod for anarchy servers",
+            "homepage": null,
             "id": 385169901,
             "language": "Java",
+            "license": null,
             "last_commit": "2022-12-15T15:20:27Z",
+            "open_issues": 0,
             "owner": "Mister-Ritom",
             "repo": "Ananta-Client",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "forge",
+              "forge-mod",
+              "hacked-client",
+              "java",
+              "kotlin",
+              "minecraft",
+              "minecraft-forge-mod",
+              "minecraft-hacked-client",
+              "minecraft-mod"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -26,12 +41,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Minecraft utility mod for anarchy servers",
+            "homepage": null,
             "id": 385169901,
             "language": "Java",
+            "license": null,
             "last_commit": "2022-12-15T15:20:27Z",
+            "open_issues": 0,
             "owner": "Mister-Ritom",
             "repo": "Ananta-Client",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "forge",
+              "forge-mod",
+              "hacked-client",
+              "java",
+              "kotlin",
+              "minecraft",
+              "minecraft-forge-mod",
+              "minecraft-hacked-client",
+              "minecraft-mod"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -42,12 +72,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "1.8.8 hacked client",
+            "homepage": null,
             "id": 142565279,
             "language": "Java",
+            "license": null,
             "last_commit": "2018-07-27T10:49:30Z",
+            "open_issues": 0,
             "owner": "WomasL",
             "repo": "AquaticClient",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "java",
+              "minecraft",
+              "minecraft-hacked-client",
+              "mixin"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -58,12 +98,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ares is a free, open source minecraft utility mod aimed at anarchy servers.",
+            "homepage": "https://aresclient.org",
             "id": 316060032,
             "language": "Java",
+            "license": "LGPL-3.0",
             "last_commit": "2025-06-04T17:16:57Z",
+            "open_issues": 15,
             "owner": "AresClient",
             "repo": "ares",
-            "stars": 187
+            "stars": 187,
+            "topics": [
+              "2b2t",
+              "anarchy",
+              "java",
+              "minecraft"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -74,12 +124,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a Minecraft Base Client",
+            "homepage": null,
             "id": 237685882,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2025-01-23T23:39:01Z",
+            "open_issues": 15,
             "owner": "OxideWaveLength",
             "repo": "Minecraft-Hack-BaseClient",
-            "stars": 318
+            "stars": 320,
+            "topics": [
+              "1-8-8",
+              "base",
+              "client",
+              "hack",
+              "hacked",
+              "java",
+              "mcp",
+              "mcp918",
+              "minecraft"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -90,12 +155,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "крутой мод",
+            "homepage": null,
             "id": 312784908,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2023-04-12T20:00:58Z",
+            "open_issues": 0,
             "owner": "ZimnyCat",
             "repo": "BigRat",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "anarchy",
+              "client",
+              "fabric",
+              "hack",
+              "java",
+              "minecraft",
+              "mod"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -106,12 +184,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "крутой мод",
+            "homepage": null,
             "id": 312784908,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2023-04-12T20:00:58Z",
+            "open_issues": 0,
             "owner": "ZimnyCat",
             "repo": "BigRat",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "anarchy",
+              "client",
+              "fabric",
+              "hack",
+              "java",
+              "minecraft",
+              "mod"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -122,12 +213,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "block game utility mod that makes you a cool kid",
+            "homepage": "https://bleachhack.org",
             "id": 194374827,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2024-07-02T14:43:12Z",
+            "open_issues": 112,
             "owner": "BleachDev",
             "repo": "BleachHack",
-            "stars": 795
+            "stars": 795,
+            "topics": [
+              "bleach-hack",
+              "bleach-utility-mod",
+              "bleachhack",
+              "java",
+              "minecraft",
+              "minecraft-mod"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -138,12 +241,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minecraft 1.8 hacked client",
+            "homepage": null,
             "id": 336283775,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2023-09-29T08:18:04Z",
+            "open_issues": 2,
             "owner": "GandelXIV",
             "repo": "Cake-client",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "game-hacking",
+              "hacked-client",
+              "minecraft",
+              "minecraft-client",
+              "minecraft-hacked-client"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -154,12 +268,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A multipurpose Minecraft client mod, focussing on utilities to make the game easier.",
+            "homepage": null,
             "id": 489120101,
             "language": "Java",
+            "license": "GPL-2.0",
             "last_commit": "2024-02-20T16:03:25Z",
+            "open_issues": 9,
             "owner": "Coffee-Client",
             "repo": "Coffee",
-            "stars": 177
+            "stars": 177,
+            "topics": [
+              "cheating",
+              "minecraft",
+              "minecraft-client",
+              "modding"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -170,12 +294,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CookieClient is a utility client for anarchy servers",
+            "homepage": null,
             "id": 363211939,
             "language": "Java",
+            "license": null,
             "last_commit": "2023-04-15T04:31:46Z",
+            "open_issues": 16,
             "owner": "bebeli555",
             "repo": "CookieClient",
-            "stars": 88
+            "stars": 88,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -186,12 +315,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CookieClient is a utility client for anarchy servers",
+            "homepage": null,
             "id": 363211939,
             "language": "Java",
+            "license": null,
             "last_commit": "2023-04-15T04:31:46Z",
+            "open_issues": 16,
             "owner": "bebeli555",
             "repo": "CookieClient",
-            "stars": 88
+            "stars": 88,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -202,12 +336,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Free, open-source, Minecraft 1.12.2 PvP client aimed at the anarchy community.",
+            "homepage": null,
             "id": 391157625,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2023-06-21T20:20:31Z",
+            "open_issues": 24,
             "owner": "momentumdevelopment",
             "repo": "cosmos",
-            "stars": 145
+            "stars": 145,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -218,12 +357,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Free, open-source, Minecraft 1.12.2 PvP client aimed at the anarchy community.",
+            "homepage": null,
             "id": 391157625,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2023-06-21T20:20:31Z",
+            "open_issues": 24,
             "owner": "momentumdevelopment",
             "repo": "cosmos",
-            "stars": 145
+            "stars": 145,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -234,12 +378,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The CXClient Minecraft Hacked Client. (O++ S++ I+ C E- M V? !PS D+)",
+            "homepage": null,
             "id": 142776302,
             "language": "Java",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-13T20:17:48Z",
+            "open_issues": 10,
             "owner": "pixelcmtd",
             "repo": "CXClient",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "java",
+              "mcp",
+              "minecraft",
+              "minecraft-hack",
+              "minecraft-hacked-client",
+              "minecraft-hacking"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -250,12 +406,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The CXClient Minecraft Hacked Client. (O++ S++ I+ C E- M V? !PS D+)",
+            "homepage": null,
             "id": 142776302,
             "language": "Java",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-13T20:17:48Z",
+            "open_issues": 10,
             "owner": "pixelcmtd",
             "repo": "CXClient",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "java",
+              "mcp",
+              "minecraft",
+              "minecraft-hack",
+              "minecraft-hacked-client",
+              "minecraft-hacking"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -266,12 +434,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "bad client - the sequel",
+            "homepage": null,
             "id": 454041028,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2022-05-07T09:19:42Z",
+            "open_issues": 5,
             "owner": "noatmc-archived",
             "repo": "delta",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -282,12 +455,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My Minecraft PvP ,,Client,,",
+            "homepage": "https://twitter.com/AzarielDev",
             "id": 292550373,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2021-01-18T11:14:56Z",
+            "open_issues": 0,
             "owner": "HerXayah",
             "repo": "Azariel-Client",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "client",
+              "minecraft",
+              "minecraft-client",
+              "minecraft-forge"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -298,12 +481,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My Minecraft PvP ,,Client,,",
+            "homepage": "https://twitter.com/AzarielDev",
             "id": 292550373,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2021-01-18T11:14:56Z",
+            "open_issues": 0,
             "owner": "HerXayah",
             "repo": "Azariel-Client",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "client",
+              "minecraft",
+              "minecraft-client",
+              "minecraft-forge"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -314,12 +507,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Family Fun Pack utility mod for 2b2t",
+            "homepage": null,
             "id": 304463625,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2022-11-02T17:45:34Z",
+            "open_issues": 5,
             "owner": "anOtherAnalyse",
             "repo": "FamilyFunPack",
-            "stars": 106
+            "stars": 106,
+            "topics": [
+              "2b2t",
+              "9b9t",
+              "anarchy-servers",
+              "minecraft-mod",
+              "utility-mod"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -330,12 +534,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Family Fun Pack utility mod for 2b2t",
+            "homepage": null,
             "id": 304463625,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2022-11-02T17:45:34Z",
+            "open_issues": 5,
             "owner": "anOtherAnalyse",
             "repo": "FamilyFunPack",
-            "stars": 106
+            "stars": 106,
+            "topics": [
+              "2b2t",
+              "9b9t",
+              "anarchy-servers",
+              "minecraft-mod",
+              "utility-mod"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -346,12 +561,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Ferox Client for Minecraft 1.12.2.",
+            "homepage": null,
             "id": 325494762,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2022-08-15T19:26:22Z",
+            "open_issues": 6,
             "owner": "olliem5",
             "repo": "ferox",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -362,12 +582,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Ferox Client for Minecraft 1.12.2.",
+            "homepage": null,
             "id": 325494762,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2022-08-15T19:26:22Z",
+            "open_issues": 6,
             "owner": "olliem5",
             "repo": "ferox",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -378,12 +603,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minecraft utility mod for 1.12.2",
+            "homepage": null,
             "id": 458574232,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2023-02-24T22:23:37Z",
+            "open_issues": 0,
             "owner": "Kieran-Whelan",
             "repo": "Hecks.exe",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "forge",
+              "gradle",
+              "minecraft"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -394,12 +628,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Fabric Utility Mod for Minecraft 1.17.1",
+            "homepage": null,
             "id": 346167532,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2023-11-03T02:20:22Z",
+            "open_issues": 0,
             "owner": "evaan",
             "repo": "FrostBurn",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -410,12 +649,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Fabric Utility Mod for Minecraft 1.17.1",
+            "homepage": null,
             "id": 346167532,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2023-11-03T02:20:22Z",
+            "open_issues": 0,
             "owner": "evaan",
             "repo": "FrostBurn",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -426,12 +670,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Minecraft cheat that runs as a Forge mod",
+            "homepage": null,
             "id": 91538139,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2022-12-09T01:31:32Z",
+            "open_issues": 109,
             "owner": "fr1kin",
             "repo": "ForgeHax",
-            "stars": 498
+            "stars": 498,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -442,12 +691,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Minecraft cheat that runs as a Forge mod",
+            "homepage": null,
             "id": 91538139,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2022-12-09T01:31:32Z",
+            "open_issues": 109,
             "owner": "fr1kin",
             "repo": "ForgeHax",
-            "stars": 498
+            "stars": 498,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -458,12 +712,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minecraft 1.12.2 Utility Mod for Anarchy and Crystal PvP [+2]",
+            "homepage": null,
             "id": 423456289,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2021-11-18T13:34:28Z",
+            "open_issues": 0,
             "owner": "Droid-D3V",
             "repo": "gamesense-plus-2",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "crystal-pvp",
+              "gamesense-client",
+              "hack",
+              "java",
+              "minecraft-hacked-client"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -474,12 +739,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minecraft utility mod for the latest release of Minecraft.",
+            "homepage": null,
             "id": 465853448,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-06T07:38:02Z",
+            "open_issues": 0,
             "owner": "Cypphi",
             "repo": "kana-client",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "fabric-mod",
+              "fabricmc",
+              "fabricmc-mod",
+              "hacked-client",
+              "minecraft",
+              "minecraft-client",
+              "minecraft-mod",
+              "utility-mod"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -490,12 +769,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source, mixin based ghost client for Minecraft 1.8.9 built on Minecraft Forge.",
+            "homepage": null,
             "id": 335309423,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2024-01-07T00:46:17Z",
+            "open_issues": 10,
             "owner": "zPeanut",
             "repo": "Hydrogen",
-            "stars": 150
+            "stars": 150,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -506,12 +790,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source, mixin based ghost client for Minecraft 1.8.9 built on Minecraft Forge.",
+            "homepage": null,
             "id": 335309423,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2024-01-07T00:46:17Z",
+            "open_issues": 10,
             "owner": "zPeanut",
             "repo": "Hydrogen",
-            "stars": 150
+            "stars": 150,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -522,12 +811,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "gamer client pvp",
+            "homepage": "https://hypnotic.dev",
             "id": 391480647,
             "language": "Java",
+            "license": "Unlicense",
             "last_commit": "2023-12-15T01:00:09Z",
+            "open_issues": 3,
             "owner": "Hypnotic-Development",
             "repo": "Hypnotic-Client",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "hacked-client",
+              "java",
+              "minecraft",
+              "minecraft-mod",
+              "mod",
+              "utility-mod"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -538,12 +839,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Minecraft Utility Mod aimed for Anarchy",
+            "homepage": "http://jexclient.tk",
             "id": 342726466,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2023-10-12T15:32:23Z",
+            "open_issues": 6,
             "owner": "DustinRepo",
             "repo": "JexClient",
-            "stars": 113
+            "stars": 113,
+            "topics": [
+              "client",
+              "fabric",
+              "gradle",
+              "jex",
+              "mod",
+              "utility",
+              "utility-mod"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -554,12 +868,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Minecraft Utility Mod aimed for Anarchy",
+            "homepage": "http://jexclient.tk",
             "id": 342726466,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2023-10-12T15:32:23Z",
+            "open_issues": 6,
             "owner": "DustinRepo",
             "repo": "JexClient",
-            "stars": 113
+            "stars": 113,
+            "topics": [
+              "client",
+              "fabric",
+              "gradle",
+              "jex",
+              "mod",
+              "utility",
+              "utility-mod"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -570,12 +897,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Minecraft utility mod aimed at anarchy servers",
+            "homepage": null,
             "id": 141838021,
             "language": "Kotlin",
+            "license": "NOASSERTION",
             "last_commit": "2021-12-06T22:26:04Z",
+            "open_issues": 50,
             "owner": "zeroeightysix",
             "repo": "KAMI",
-            "stars": 245
+            "stars": 245,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -586,12 +918,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Minecraft utility mod aimed at anarchy servers",
+            "homepage": null,
             "id": 141838021,
             "language": "Kotlin",
+            "license": "NOASSERTION",
             "last_commit": "2021-12-06T22:26:04Z",
+            "open_issues": 50,
             "owner": "zeroeightysix",
             "repo": "KAMI",
-            "stars": 245
+            "stars": 245,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -602,12 +939,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "ARCHIVED - KAMI Blue: a continuation of 1.12.2 KAMI",
+            "homepage": "https://kamiblue.org",
             "id": 153950504,
             "language": "Kotlin",
+            "license": "LGPL-3.0",
             "last_commit": "2021-04-23T22:06:01Z",
+            "open_issues": 175,
             "owner": "kami-blue",
             "repo": "client",
-            "stars": 381
+            "stars": 381,
+            "topics": [
+              "2b2t",
+              "anarchy",
+              "forge",
+              "kami",
+              "kami-blue",
+              "kamiblue",
+              "minecraft"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -618,12 +968,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 503481308,
             "language": null,
+            "license": null,
             "last_commit": "2021-11-05T05:49:43Z",
+            "open_issues": 0,
             "owner": "BebSxy",
             "repo": "konas",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -634,12 +989,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The ultimate open-source Fabric utility mod written in Kotlin",
+            "homepage": "https://lambda-client.org/",
             "id": 766421525,
             "language": "Kotlin",
-            "last_commit": "2026-08-27T23:44:29Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-28T20:35:51Z",
+            "open_issues": 17,
             "owner": "lambda-client",
             "repo": "lambda",
-            "stars": 184
+            "stars": 184,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -650,12 +1010,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The ultimate open-source Fabric utility mod written in Kotlin",
+            "homepage": "https://lambda-client.org/",
             "id": 766421525,
             "language": "Kotlin",
-            "last_commit": "2026-08-27T23:44:29Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-28T20:35:51Z",
+            "open_issues": 17,
             "owner": "lambda-client",
             "repo": "lambda",
-            "stars": 184
+            "stars": 184,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -666,12 +1031,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A free Minecraft hacked client (utility mod) for Fabric",
+            "homepage": "https://liquidbounce.net/",
             "id": 231111750,
             "language": "Kotlin",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T16:45:11Z",
+            "open_issues": 196,
             "owner": "CCBlueX",
             "repo": "LiquidBounce",
-            "stars": 2363
+            "stars": 2364,
+            "topics": [
+              "fabric",
+              "fabricmc",
+              "hacked-client",
+              "liquidbounce",
+              "minecraft",
+              "minecraft-mod",
+              "utility-mod"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -682,12 +1060,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Minecraft client based on earth",
+            "homepage": "https://plusplus.funniesthvh.uk",
             "id": 518447055,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2025-12-04T17:26:37Z",
+            "open_issues": 4,
             "owner": "MongusOrg",
             "repo": "SolidPressure",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "forge",
+              "java",
+              "liquidbounce",
+              "minecraft",
+              "minecraft-forge",
+              "minecraft-mod",
+              "mod"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -698,12 +1089,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Based Minecraft utility mod.",
+            "homepage": "https://meteorclient.com",
             "id": 309730396,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T11:34:58Z",
+            "open_issues": 805,
             "owner": "MeteorDevelopment",
             "repo": "meteor-client",
-            "stars": 3799
+            "stars": 3799,
+            "topics": [
+              "fabricmc",
+              "minecraft",
+              "minecraft-fabric",
+              "minecraft-mod",
+              "utility-mod"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -714,12 +1116,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "マイクラチートクライアント作成チュートリアル用",
+            "homepage": null,
             "id": 445702349,
             "language": "Java",
+            "license": null,
             "last_commit": "2022-10-15T14:16:21Z",
+            "open_issues": 1,
             "owner": "Nodoka4318",
             "repo": "OnigiriClient",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "minecraft",
+              "minecraft-hacked-client",
+              "minecraftforge"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -730,12 +1141,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Continuation of GhostTypes' Orion",
+            "homepage": null,
             "id": 425376681,
             "language": "Java",
+            "license": null,
             "last_commit": "2024-05-11T03:31:44Z",
+            "open_issues": 11,
             "owner": "AntiCope",
             "repo": "orion",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "meteor-client",
+              "meteor-client-addon",
+              "minecraft",
+              "minecraft-fabric",
+              "minecraft-mod",
+              "utility-mod"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -746,12 +1169,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Continuation of GhostTypes' Orion",
+            "homepage": null,
             "id": 425376681,
             "language": "Java",
+            "license": null,
             "last_commit": "2024-05-11T03:31:44Z",
+            "open_issues": 11,
             "owner": "AntiCope",
             "repo": "orion",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "meteor-client",
+              "meteor-client-addon",
+              "minecraft",
+              "minecraft-fabric",
+              "minecraft-mod",
+              "utility-mod"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -762,12 +1197,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Minecraft hacked client with pretty much no hacks and lots of utilities for automating things",
+            "homepage": "https://pepsi.team",
             "id": 112841481,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2021-10-28T20:15:50Z",
+            "open_issues": 10,
             "owner": "Team-Pepsi",
             "repo": "pepsimod",
-            "stars": 168
+            "stars": 168,
+            "topics": [
+              "hacked-client",
+              "java",
+              "minecraft",
+              "pepsi",
+              "team-pepsi"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -778,12 +1224,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Minecraft hacked client with pretty much no hacks and lots of utilities for automating things",
+            "homepage": "https://pepsi.team",
             "id": 112841481,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2021-10-28T20:15:50Z",
+            "open_issues": 10,
             "owner": "Team-Pepsi",
             "repo": "pepsimod",
-            "stars": 168
+            "stars": 168,
+            "topics": [
+              "hacked-client",
+              "java",
+              "minecraft",
+              "pepsi",
+              "team-pepsi"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -794,12 +1251,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "minecraft anarchy client :)",
+            "homepage": null,
             "id": 313736035,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-06-10T05:03:35Z",
+            "open_issues": 0,
             "owner": "srgantmoomoo",
             "repo": "postman",
-            "stars": 180
+            "stars": 180,
+            "topics": [
+              "anarchy",
+              "anarchy-client",
+              "client",
+              "fabric",
+              "fabricmc",
+              "java",
+              "minecraft",
+              "mod",
+              "open-source",
+              "postman",
+              "postmanclient",
+              "utility-mod"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -810,12 +1285,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "minecraft anarchy client :)",
+            "homepage": null,
             "id": 313736035,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-06-10T05:03:35Z",
+            "open_issues": 0,
             "owner": "srgantmoomoo",
             "repo": "postman",
-            "stars": 180
+            "stars": 180,
+            "topics": [
+              "anarchy",
+              "anarchy-client",
+              "client",
+              "fabric",
+              "fabricmc",
+              "java",
+              "minecraft",
+              "mod",
+              "open-source",
+              "postman",
+              "postmanclient",
+              "utility-mod"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -826,12 +1319,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "bugs",
+            "homepage": null,
             "id": 542242430,
             "language": "Java",
+            "license": null,
             "last_commit": "2022-12-17T04:25:45Z",
+            "open_issues": 1,
             "owner": "Zane2b2t",
             "repo": "GrassWare.win",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -842,12 +1340,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "bugs",
+            "homepage": null,
             "id": 542242430,
             "language": "Java",
+            "license": null,
             "last_commit": "2022-12-17T04:25:45Z",
+            "open_issues": 1,
             "owner": "Zane2b2t",
             "repo": "GrassWare.win",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -858,12 +1361,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source of the Minecraft Hacked client Resilience",
+            "homepage": null,
             "id": 39420083,
             "language": "Java",
+            "license": "WTFPL",
             "last_commit": "2020-10-02T12:01:19Z",
+            "open_issues": 0,
             "owner": "MinecraftModdedClients",
             "repo": "Resilience-Client-Source",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "license-wtfpl",
+              "wtfpl",
+              "wtfpl-license"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -874,12 +1386,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 261170994,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2021-05-15T17:32:43Z",
+            "open_issues": 116,
             "owner": "ionar2",
             "repo": "spidermod",
-            "stars": 204
+            "stars": 204,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -890,12 +1407,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 261170994,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2021-05-15T17:32:43Z",
+            "open_issues": 116,
             "owner": "ionar2",
             "repo": "spidermod",
-            "stars": 204
+            "stars": 204,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -906,12 +1428,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight, dependency-free Minecraft 1.12.2 hack",
+            "homepage": "http://seppuku.pw/",
             "id": 217877390,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2023-09-26T01:00:33Z",
+            "open_issues": 8,
             "owner": "seppukudevelopment",
             "repo": "seppuku",
-            "stars": 277
+            "stars": 277,
+            "topics": [
+              "forge",
+              "forge-mod",
+              "gradle",
+              "hack",
+              "java",
+              "minecraft",
+              "minecraft-forge",
+              "minecraft-forge-mod",
+              "minecraft-mod",
+              "seppuku",
+              "utility-mod"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -922,12 +1461,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A discontinued continuation of the Minecraft 1.12.2 player assistance utility mod, GameSense",
+            "homepage": null,
             "id": 406026219,
             "language": "Java",
+            "license": null,
             "last_commit": "2021-11-25T00:04:39Z",
+            "open_issues": 0,
             "owner": "HausemasterIssue",
             "repo": "spidersense",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "2b2t",
+              "anarchy",
+              "crystal-pvp",
+              "minecraft",
+              "utility-mod"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -938,12 +1488,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A discontinued continuation of the Minecraft 1.12.2 player assistance utility mod, GameSense",
+            "homepage": null,
             "id": 406026219,
             "language": "Java",
+            "license": null,
             "last_commit": "2021-11-25T00:04:39Z",
+            "open_issues": 0,
             "owner": "HausemasterIssue",
             "repo": "spidersense",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "2b2t",
+              "anarchy",
+              "crystal-pvp",
+              "minecraft",
+              "utility-mod"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -954,12 +1515,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 473706218,
             "language": "Java",
+            "license": null,
             "last_commit": "2023-05-10T01:54:46Z",
+            "open_issues": 0,
             "owner": "Toshimichi0915",
             "repo": "sushi-client",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "2b2t",
+              "2b2t-utility-mod",
+              "minecraft",
+              "mod"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -970,12 +1541,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 473706218,
             "language": "Java",
+            "license": null,
             "last_commit": "2023-05-10T01:54:46Z",
+            "open_issues": 0,
             "owner": "Toshimichi0915",
             "repo": "sushi-client",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "2b2t",
+              "2b2t-utility-mod",
+              "minecraft",
+              "mod"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -986,12 +1567,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "1.17.1 utility mod for anarchy-related servers using Fabric.",
+            "homepage": null,
             "id": 357144278,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2023-11-28T06:31:07Z",
+            "open_issues": 0,
             "owner": "IUDevman",
             "repo": "Tensor",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -1002,12 +1588,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "1.17.1 utility mod for anarchy-related servers using Fabric.",
+            "homepage": null,
             "id": 357144278,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2023-11-28T06:31:07Z",
+            "open_issues": 0,
             "owner": "IUDevman",
             "repo": "Tensor",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -1018,12 +1609,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Strong utility mod for Minecraft anarchy servers.",
+            "homepage": null,
             "id": 423016548,
             "language": "Kotlin",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-17T13:26:39Z",
+            "open_issues": 17,
             "owner": "Luna5ama",
             "repo": "TrollHack",
-            "stars": 221
+            "stars": 221,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -1034,12 +1630,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Strong utility mod for Minecraft anarchy servers.",
+            "homepage": null,
             "id": 423016548,
             "language": "Kotlin",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-17T13:26:39Z",
+            "open_issues": 17,
             "owner": "Luna5ama",
             "repo": "TrollHack",
-            "stars": 221
+            "stars": 221,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -1050,12 +1651,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minecraft Wurst Hacked Client v7",
+            "homepage": "https://www.wurstclient.net/download/?utm_source=GitHub&utm_medium=Wurst+Client&utm_content=Wurst7+GitHub+repo+sidebar+website+link",
             "id": 206354730,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T14:20:30Z",
+            "open_issues": 21,
             "owner": "Wurst-Imperium",
             "repo": "Wurst7",
-            "stars": 1365
+            "stars": 1365,
+            "topics": [
+              "1-20-1",
+              "1-21",
+              "1-21-1",
+              "1-21-4",
+              "1-21-8",
+              "fabric",
+              "fabricmc-mod",
+              "hacked-client",
+              "java",
+              "minecraft",
+              "minecraft-client",
+              "minecraft-fabric-mod",
+              "minecraft-mod",
+              "minecraft-utility-mod",
+              "modded-minecraft"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -1066,12 +1688,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "forge mod for 1.12.2 minecraft",
+            "homepage": null,
             "id": 356071729,
             "language": "Java",
+            "license": "AGPL-3.0",
             "last_commit": "2022-10-21T23:51:39Z",
+            "open_issues": 3,
             "owner": "WurstPlus",
             "repo": "wurst-plus-three",
-            "stars": 194
+            "stars": 194,
+            "topics": [
+              "2b2t",
+              "anarchy",
+              "forge",
+              "minecraft",
+              "wurst"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -1082,12 +1715,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "forge mod for 1.12.2 minecraft",
+            "homepage": null,
             "id": 356071729,
             "language": "Java",
+            "license": "AGPL-3.0",
             "last_commit": "2022-10-21T23:51:39Z",
+            "open_issues": 3,
             "owner": "WurstPlus",
             "repo": "wurst-plus-three",
-            "stars": 194
+            "stars": 194,
+            "topics": [
+              "2b2t",
+              "anarchy",
+              "forge",
+              "minecraft",
+              "wurst"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -1098,12 +1742,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 365593760,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2021-12-26T23:09:06Z",
+            "open_issues": 0,
             "owner": "TechAle",
             "repo": "gsplusplus",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -1114,12 +1763,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "forge mod for 1.12.2 minecraft",
+            "homepage": null,
             "id": 356071729,
             "language": "Java",
+            "license": "AGPL-3.0",
             "last_commit": "2022-10-21T23:51:39Z",
+            "open_issues": 3,
             "owner": "WurstPlus",
             "repo": "wurst-plus-three",
-            "stars": 194
+            "stars": 194,
+            "topics": [
+              "2b2t",
+              "anarchy",
+              "forge",
+              "minecraft",
+              "wurst"
+            ]
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         }
@@ -1136,12 +1796,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Strong utility mod for Minecraft anarchy servers.",
+            "homepage": null,
             "id": 423016548,
             "language": "Kotlin",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-17T13:26:39Z",
+            "open_issues": 17,
             "owner": "Luna5ama",
             "repo": "TrollHack",
-            "stars": 221
+            "stars": 221,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         },
@@ -1152,12 +1817,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 365593760,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2021-12-26T23:09:06Z",
+            "open_issues": 0,
             "owner": "TechAle",
             "repo": "gsplusplus",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
         }
@@ -1166,15 +1836,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:54:58.436Z",
+    "last_updated": "2026-08-29T04:55:32.788Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of Minecraft Hack Clients.",
+      "homepage": null,
       "id": 436666197,
       "language": null,
+      "license": "MIT",
       "last_commit": "2023-01-29T20:24:39Z",
+      "open_issues": 0,
       "owner": "Minecraft-Anarchy",
       "repo": "minecraft-hack-clients",
-      "stars": 123
+      "stars": 123,
+      "topics": [
+        "awesome-list",
+        "minecraft",
+        "minecraft-hack",
+        "minecraft-hacked-client",
+        "minecraft-hacking"
+      ]
     },
     "original_repository_sha": "31cf6277082387f5ee18ff23c5e398134939855c",
     "enhanced_repository": "enhansome/enhansome-minecraft-hack-clients",
