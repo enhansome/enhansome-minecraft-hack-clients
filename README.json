@@ -994,11 +994,11 @@
             "id": 766421525,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-01T02:14:57Z",
+            "last_commit": "2026-09-01T10:42:29Z",
             "open_issues": 17,
             "owner": "lambda-client",
             "repo": "lambda",
-            "stars": 184,
+            "stars": 185,
             "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
@@ -1015,11 +1015,11 @@
             "id": 766421525,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-01T02:14:57Z",
+            "last_commit": "2026-09-01T10:42:29Z",
             "open_issues": 17,
             "owner": "lambda-client",
             "repo": "lambda",
-            "stars": 184,
+            "stars": 185,
             "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
@@ -1040,7 +1040,7 @@
             "open_issues": 199,
             "owner": "CCBlueX",
             "repo": "LiquidBounce",
-            "stars": 2369,
+            "stars": 2368,
             "topics": [
               "fabric",
               "fabricmc",
@@ -1098,7 +1098,7 @@
             "open_issues": 820,
             "owner": "MeteorDevelopment",
             "repo": "meteor-client",
-            "stars": 3811,
+            "stars": 3816,
             "topics": [
               "fabricmc",
               "minecraft",
@@ -1656,11 +1656,11 @@
             "id": 206354730,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-31T16:24:46Z",
+            "last_commit": "2026-09-01T16:36:19Z",
             "open_issues": 21,
             "owner": "Wurst-Imperium",
             "repo": "Wurst7",
-            "stars": 1365,
+            "stars": 1366,
             "topics": [
               "1-20-1",
               "1-21",
@@ -1836,7 +1836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T09:35:14.744Z",
+    "last_updated": "2026-09-02T09:00:54.173Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Minecraft Hack Clients.",
