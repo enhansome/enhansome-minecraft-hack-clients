@@ -133,7 +133,7 @@
             "open_issues": 15,
             "owner": "OxideWaveLength",
             "repo": "Minecraft-Hack-BaseClient",
-            "stars": 320,
+            "stars": 321,
             "topics": [
               "1-8-8",
               "base",
@@ -1036,8 +1036,8 @@
             "id": 231111750,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-01T04:25:02Z",
-            "open_issues": 199,
+            "last_commit": "2026-09-02T10:23:48Z",
+            "open_issues": 202,
             "owner": "CCBlueX",
             "repo": "LiquidBounce",
             "stars": 2368,
@@ -1094,11 +1094,11 @@
             "id": 309730396,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-29T22:07:35Z",
-            "open_issues": 820,
+            "last_commit": "2026-09-03T00:35:13Z",
+            "open_issues": 823,
             "owner": "MeteorDevelopment",
             "repo": "meteor-client",
-            "stars": 3816,
+            "stars": 3819,
             "topics": [
               "fabricmc",
               "minecraft",
@@ -1656,11 +1656,11 @@
             "id": 206354730,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-01T16:36:19Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-03T02:21:16Z",
+            "open_issues": 23,
             "owner": "Wurst-Imperium",
             "repo": "Wurst7",
-            "stars": 1366,
+            "stars": 1369,
             "topics": [
               "1-20-1",
               "1-21",
@@ -1836,7 +1836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T09:00:54.173Z",
+    "last_updated": "2026-09-03T09:10:17.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Minecraft Hack Clients.",
