@@ -133,7 +133,7 @@
             "open_issues": 15,
             "owner": "OxideWaveLength",
             "repo": "Minecraft-Hack-BaseClient",
-            "stars": 321,
+            "stars": 322,
             "topics": [
               "1-8-8",
               "base",
@@ -345,7 +345,7 @@
             "open_issues": 24,
             "owner": "momentumdevelopment",
             "repo": "cosmos",
-            "stars": 145,
+            "stars": 144,
             "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
@@ -366,7 +366,7 @@
             "open_issues": 24,
             "owner": "momentumdevelopment",
             "repo": "cosmos",
-            "stars": 145,
+            "stars": 144,
             "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
@@ -1036,11 +1036,11 @@
             "id": 231111750,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-02T10:23:48Z",
-            "open_issues": 201,
+            "last_commit": "2026-09-05T05:17:43Z",
+            "open_issues": 197,
             "owner": "CCBlueX",
             "repo": "LiquidBounce",
-            "stars": 2370,
+            "stars": 2374,
             "topics": [
               "fabric",
               "fabricmc",
@@ -1095,10 +1095,10 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-09-04T00:30:06Z",
-            "open_issues": 823,
+            "open_issues": 821,
             "owner": "MeteorDevelopment",
             "repo": "meteor-client",
-            "stars": 3824,
+            "stars": 3825,
             "topics": [
               "fabricmc",
               "minecraft",
@@ -1656,7 +1656,7 @@
             "id": 206354730,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-04T06:59:32Z",
+            "last_commit": "2026-09-04T14:30:10Z",
             "open_issues": 22,
             "owner": "Wurst-Imperium",
             "repo": "Wurst7",
@@ -1836,7 +1836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T09:02:37.921Z",
+    "last_updated": "2026-09-05T08:34:14.326Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Minecraft Hack Clients.",
