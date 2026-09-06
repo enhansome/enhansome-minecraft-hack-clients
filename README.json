@@ -1040,7 +1040,7 @@
             "open_issues": 197,
             "owner": "CCBlueX",
             "repo": "LiquidBounce",
-            "stars": 2374,
+            "stars": 2375,
             "topics": [
               "fabric",
               "fabricmc",
@@ -1098,7 +1098,7 @@
             "open_issues": 821,
             "owner": "MeteorDevelopment",
             "repo": "meteor-client",
-            "stars": 3825,
+            "stars": 3829,
             "topics": [
               "fabricmc",
               "minecraft",
@@ -1618,7 +1618,7 @@
             "open_issues": 17,
             "owner": "Luna5ama",
             "repo": "TrollHack",
-            "stars": 221,
+            "stars": 220,
             "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
@@ -1639,7 +1639,7 @@
             "open_issues": 17,
             "owner": "Luna5ama",
             "repo": "TrollHack",
-            "stars": 221,
+            "stars": 220,
             "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
@@ -1660,7 +1660,7 @@
             "open_issues": 22,
             "owner": "Wurst-Imperium",
             "repo": "Wurst7",
-            "stars": 1369,
+            "stars": 1368,
             "topics": [
               "1-20-1",
               "1-21",
@@ -1805,7 +1805,7 @@
             "open_issues": 17,
             "owner": "Luna5ama",
             "repo": "TrollHack",
-            "stars": 221,
+            "stars": 220,
             "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
@@ -1836,7 +1836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T08:34:14.326Z",
+    "last_updated": "2026-09-06T08:53:47.310Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Minecraft Hack Clients.",
@@ -1848,7 +1848,7 @@
       "open_issues": 0,
       "owner": "Minecraft-Anarchy",
       "repo": "minecraft-hack-clients",
-      "stars": 123,
+      "stars": 124,
       "topics": [
         "awesome-list",
         "minecraft",
