@@ -1037,10 +1037,10 @@
             "language": "Kotlin",
             "license": "GPL-3.0",
             "last_commit": "2026-09-05T05:17:43Z",
-            "open_issues": 197,
+            "open_issues": 200,
             "owner": "CCBlueX",
             "repo": "LiquidBounce",
-            "stars": 2375,
+            "stars": 2376,
             "topics": [
               "fabric",
               "fabricmc",
@@ -1094,11 +1094,11 @@
             "id": 309730396,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-04T00:30:06Z",
+            "last_commit": "2026-09-06T21:28:18Z",
             "open_issues": 821,
             "owner": "MeteorDevelopment",
             "repo": "meteor-client",
-            "stars": 3829,
+            "stars": 3830,
             "topics": [
               "fabricmc",
               "minecraft",
@@ -1429,7 +1429,7 @@
           "repo_info": {
             "archived": false,
             "description": "Lightweight, dependency-free Minecraft 1.12.2 hack",
-            "homepage": "http://seppuku.pw/",
+            "homepage": "https://seppukudevelopment.github.io/",
             "id": 217877390,
             "language": "Java",
             "license": "GPL-3.0",
@@ -1656,11 +1656,11 @@
             "id": 206354730,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-04T14:30:10Z",
+            "last_commit": "2026-09-06T20:02:34Z",
             "open_issues": 22,
             "owner": "Wurst-Imperium",
             "repo": "Wurst7",
-            "stars": 1368,
+            "stars": 1369,
             "topics": [
               "1-20-1",
               "1-21",
@@ -1836,7 +1836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T08:53:47.310Z",
+    "last_updated": "2026-09-07T09:41:57.595Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Minecraft Hack Clients.",
@@ -1848,7 +1848,7 @@
       "open_issues": 0,
       "owner": "Minecraft-Anarchy",
       "repo": "minecraft-hack-clients",
-      "stars": 124,
+      "stars": 123,
       "topics": [
         "awesome-list",
         "minecraft",
