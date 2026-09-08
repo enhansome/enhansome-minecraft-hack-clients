@@ -222,7 +222,7 @@
             "open_issues": 112,
             "owner": "BleachDev",
             "repo": "BleachHack",
-            "stars": 795,
+            "stars": 796,
             "topics": [
               "bleach-hack",
               "bleach-utility-mod",
@@ -948,7 +948,7 @@
             "open_issues": 175,
             "owner": "kami-blue",
             "repo": "client",
-            "stars": 381,
+            "stars": 380,
             "topics": [
               "2b2t",
               "anarchy",
@@ -1040,7 +1040,7 @@
             "open_issues": 200,
             "owner": "CCBlueX",
             "repo": "LiquidBounce",
-            "stars": 2376,
+            "stars": 2379,
             "topics": [
               "fabric",
               "fabricmc",
@@ -1095,10 +1095,10 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-09-06T21:28:18Z",
-            "open_issues": 821,
+            "open_issues": 825,
             "owner": "MeteorDevelopment",
             "repo": "meteor-client",
-            "stars": 3830,
+            "stars": 3833,
             "topics": [
               "fabricmc",
               "minecraft",
@@ -1395,7 +1395,7 @@
             "open_issues": 116,
             "owner": "ionar2",
             "repo": "spidermod",
-            "stars": 204,
+            "stars": 203,
             "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
@@ -1416,7 +1416,7 @@
             "open_issues": 116,
             "owner": "ionar2",
             "repo": "spidermod",
-            "stars": 204,
+            "stars": 203,
             "topics": []
           },
           "first_seen": "2026-08-28T16:54:58.436Z"
@@ -1433,8 +1433,8 @@
             "id": 217877390,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2023-09-26T01:00:33Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-07T22:03:47Z",
+            "open_issues": 7,
             "owner": "seppukudevelopment",
             "repo": "seppuku",
             "stars": 277,
@@ -1656,11 +1656,11 @@
             "id": 206354730,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-06T20:02:34Z",
-            "open_issues": 22,
+            "last_commit": "2026-09-08T02:22:02Z",
+            "open_issues": 23,
             "owner": "Wurst-Imperium",
             "repo": "Wurst7",
-            "stars": 1369,
+            "stars": 1368,
             "topics": [
               "1-20-1",
               "1-21",
@@ -1836,7 +1836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T09:41:57.595Z",
+    "last_updated": "2026-09-08T09:04:52.433Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Minecraft Hack Clients.",
